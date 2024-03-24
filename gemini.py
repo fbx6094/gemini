@@ -9,7 +9,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.utils import executor
 
-GEMINI_KEY = 'AIzaSyDIgJ_nPjWlPPrdk69sL2Ef91Dor092Oso'
+GEMINI_KEY = 'AIzaSyDi78FgaLeiU9vFwkev1kzHlkNnSVyO3Bk'
 TELEGRAM_API_KEY = '6345689417:AAEbPgyTWCPIBgdRu1jpj9cbTRQbQNy3hwA'
 bot = Bot(token=TELEGRAM_API_KEY)
 dp = Dispatcher(bot)
